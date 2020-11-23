@@ -4,20 +4,5 @@ Bootstrap 提供了一套响应式、移动设备优先的流式栅格系统，�
 布局：优先设计更小的宽度。
 渐进增强：随着屏幕大小增加而添加元素。
 二、 基本用法
-<div class="container">
- <div class="row">
-  <div class="col-md-6">.col-md-6</div>
-  <div class="col-md-6">.col-md-6</div>
- </div>
- <div class="row">
-  <div class="col-md-4">.col-md-4</div>
-  <div class="col-md-4">.col-md-4</div>
-  <div class="col-md-4">.col-md-4</div>
- </div>
- <div class="row">
-  <div class="col-md-2">.col-md-2</div>
-  <div class="col-md-6">.col-md-6</div>
-  <div class="col-md-4">.col-md-4</div>
- </div>
-</div>
+
  
